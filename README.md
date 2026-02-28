@@ -46,13 +46,13 @@ Passionné par l'**Intelligence Artificielle** et la **modélisation statistique
 ### [NLP Spam Detection](https://github.com/riyad-77/NLP-Spam-Detection) 📧
 Utilisation de **TF-IDF** et des embeddings **BERT (Transformers)** pour la classification textuelle haute performance.
 
-### [Data Viz - Analyse du Risque Boursier](https://github.com/riyad-77/Power-Bl) 📈
+### [Data Viz - Analyse du Risque Boursier](https://github.com/riyad-77/Power-BI) 📈
 Création d'un dashboard interactif sous **Power BI** analysant les données de Yahoo Finance pour l'évaluation des risques.
 
 ### [Analyse de Séries Chronologiques](https://github.com/riyad-77/Series-chronologiques) 📉
 Étude statistique sous **R** portant sur le nombre trimestriel de faillites d'entreprises à Paris.
 
-### [Régression Linéaire - Titanic](https://github.com/riyad-77/Modele-de-regression-lineaire.git) 🚢
+### [Régression Linéaire - Titanic](https://github.com/riyad-77/Modele-de-regression-lineaire) 🚢
 Mise en œuvre d'un modèle de régression linéaire sous **Python** utilisant le dataset classique Titanic.
 
 ---
