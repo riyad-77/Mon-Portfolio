@@ -9,7 +9,11 @@ Passionné par l'**Intelligence Artificielle** et la **modélisation statistique
 
 <a href="LAGZOULI%20Riyad.pdf" target="_blank">
   <img src="cv-icon.png" alt="CV" width="20">
-</a> ## 🚀 À propos de moi
+</a>
+
+---
+
+## 🚀 À propos de moi
 - 🎓 **Formation :** Cycle d'ingénieur spécialisé en Data Science.
 - 🏛️ **Leadership :** Président du **Club INSEA IT**, où je dirige l'IT Academy et gère des partenariats stratégiques (NVIDIA, DataCamp).
 - 💡 **Expertise :** Maîtrise des pipelines de données sous Python et R, avec un focus sur le Machine Learning et le Deep Learning.
