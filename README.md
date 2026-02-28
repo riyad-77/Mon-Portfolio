@@ -68,8 +68,10 @@ Mise en œuvre d'un modèle de régression linéaire sous **Python** utilisant l
 ## 📫 Me contacter
 - 💼 **LinkedIn :** [Riyad Lagzouli](https://www.linkedin.com/in/riyad-lagzouli-957876349/) 
 - 📧 **Email :** [riadlag2004@gmail.com](mailto:riadlag2004@gmail.com) ou [rlagzouli@insea.ac.ma](mailto:rlagzouli@insea.ac.ma) 
-- 📍 **Localisation :** Rabat, Maroc 
+- 📍 **Localisation :** Rabat, Maroc
+  
 ---
+
 ## 📸 Highlights & Événements
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
