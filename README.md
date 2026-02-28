@@ -1,13 +1,15 @@
 # Salut ! Moi, c'est Riyad Lagzouli 👋
 
 ### 📊 Élève Ingénieur en Data Science @ INSEA  
-<a href="LAGZOULI%20Riyad.pdf" target="_blank">
-  <img src="cv-icon.png" alt="CV" width="20">
-</a>
+
 
 Passionné par l'**Intelligence Artificielle** et la **modélisation statistique**. Actuellement en deuxième année à l'Institut National de Statistique et d'Économie Appliquée (INSEA) à Rabat.
 
 ---
+
+<a href="LAGZOULI%20Riyad.pdf" target="_blank">
+  <img src="cv-icon.png" alt="CV" width="20">
+</a>
 
 ## 🚀 À propos de moi
 - 🎓 **Formation :** Cycle d'ingénieur spécialisé en Data Science.
