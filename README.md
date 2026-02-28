@@ -19,7 +19,7 @@
 
 Passionné par l'**Intelligence Artificielle** et la **modélisation statistique**. Actuellement en deuxième année à l'Institut National de Statistique et d'Économie Appliquée (INSEA) à Rabat.
 
-
+---
 
 ## 🚀 À propos de moi
 - 🎓 **Formation :** Cycle d'ingénieur spécialisé en Data Science.
