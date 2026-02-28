@@ -56,12 +56,12 @@ Mise en œuvre d'un modèle de régression linéaire sous **Python** utilisant l
 ---
 ## 📸 Highlights & Événements
 
-<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding-bottom: 10px;">
-  <img src="img1.jpeg" height="250">
-  <img src="img2.jpeg" height="250">
-  <img src="img3.jpeg" height="250">
-  <img src="img4.jpeg" height="250">
-  <img src="img5.jpeg" height="250">
-  <img src="img6.jpeg" height="250">
-  <img src="img7.jpeg" height="250">
-</div>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="img1.jpeg" height="200" style="margin-right: 20px;">
+  <img src="img2.jpeg" height="200" style="margin-right: 20px;">
+  <img src="img3.jpeg" height="200" style="margin-right: 20px;">
+  <img src="img4.jpeg" height="200" style="margin-right: 20px;">
+  <img src="img5.jpeg" height="200" style="margin-right: 20px;">
+  <img src="img6.jpeg" height="200" style="margin-right: 20px;">
+  <img src="img7.jpeg" height="200" style="margin-right: 20px;">
+</marquee>
