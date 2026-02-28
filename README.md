@@ -54,3 +54,15 @@ Mise en œuvre d'un modèle de régression linéaire sous **Python** utilisant l
 - 📍 **Localisation :** Rabat, Maroc 
 
 ---
+## 📸 Highlights & Événements
+<table border="0">
+  <tr>
+    <td><img src="/img1.jpeg" width="300" alt="Workshop NVIDIA"/></td>
+    <td><img src="/img2.jpeg" width="300" alt="IT Village"/></td>
+    <td><img src="/img3.jpeg" width="300" alt="Workshop NVIDIA"/></td>
+    <td><img src="/img4.jpeg" width="300" alt="Workshop NVIDIA"/></td>
+    <td><img src="/img5.jpeg" width="300" alt="Workshop NVIDIA"/></td>
+    <td><img src="/img6.jpeg" width="300" alt="Workshop NVIDIA"/></td>
+    <td><img src="/img7.jpeg" width="300" alt="Workshop NVIDIA"/></td>
+  </tr>
+</table>
