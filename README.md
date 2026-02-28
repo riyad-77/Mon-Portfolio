@@ -2,6 +2,7 @@
 
 ### 📊 Élève Ingénieur en Data Science @ INSEA
 [![Mon CV](https://img.shields.io/badge/Consulter_mon_CV-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](LAGZOULI%20Riyad.pdf)
+
 Passionné par l'**Intelligence Artificielle** et la **modélisation statistique**. Actuellement en deuxième année à l'Institut National de Statistique et d'Économie Appliquée (INSEA) à Rabat.
 
 ---
