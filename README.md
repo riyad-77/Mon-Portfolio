@@ -26,7 +26,8 @@ Passionné par l'**Intelligence Artificielle** et la **modélisation statistique
 - **Langages :** Python, R.
 - **Domaines :** Machine Learning, Deep Learning, NLP, Statistiques, Recherche Opérationnelle.
 - **Outils :** Power BI (Data Viz), Git, Pipelines de données.
-- **Certifications Clés :** - NVIDIA: Fundamentals of Deep Learning.
+- **Certifications Clés :**
+  - NVIDIA: Fundamentals of Deep Learning.
   - IBM: Python for Data Science.
   - DataCamp: Supervised & Unsupervised Learning, Advanced Git.
 
