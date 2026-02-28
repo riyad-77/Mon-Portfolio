@@ -1,17 +1,25 @@
 # Salut ! Moi, c'est Riyad Lagzouli 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/riyad-lagzouli" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" style="margin: 0 10px;">
+  </a>
+  
+  <a href="https://github.com/riyad-77" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" style="margin: 0 10px;">
+  </a>
+
+  <a href="LAGZOULI%20Riyad.pdf" target="_blank">
+    <img src="cv-icon.png" alt="CV" width="40" style="margin: 0 10px;">
+  </a>
+</p>
+
 ### 📊 Élève Ingénieur en Data Science @ INSEA  
 
 
 Passionné par l'**Intelligence Artificielle** et la **modélisation statistique**. Actuellement en deuxième année à l'Institut National de Statistique et d'Économie Appliquée (INSEA) à Rabat.
 
----
 
-<a href="LAGZOULI%20Riyad.pdf" target="_blank">
-  <img src="cv-icon.png" alt="CV" width="20">
-</a>
-
----
 
 ## 🚀 À propos de moi
 - 🎓 **Formation :** Cycle d'ingénieur spécialisé en Data Science.
