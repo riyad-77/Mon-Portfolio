@@ -5,6 +5,7 @@
   <img src="https://img.icons8.com/color/48/pdf-resumes.png" width="40">
   <b>Consulter mon CV</b>
 </a>
+
 Passionné par l'**Intelligence Artificielle** et la **modélisation statistique**. Actuellement en deuxième année à l'Institut National de Statistique et d'Économie Appliquée (INSEA) à Rabat.
 
 ---
