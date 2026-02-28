@@ -1,7 +1,7 @@
 # Salut ! Moi, c'est Riyad Lagzouli 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riyad-lagzouli" target="_blank">
+  <a href="https://www.linkedin.com/in/riyad-lagzouli-957876349/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" style="margin: 0 10px;">
   </a>
   
