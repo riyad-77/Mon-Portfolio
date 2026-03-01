@@ -1,16 +1,27 @@
 <p align="center">
-  <img src="https://github.com/riyad-77/riyad-77/blob/main/cover.png?raw=true" alt="Bannière Riyad Lagzouli" width="100%">
+  <a href="#-about-me"><b>HOME</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-about-me"><b>EDUCATION</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tech-stack--certifications"><b>SKILLS</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-leadership--extracurriculars"><b>EXPERIENCES</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-featured-projects"><b>PROJECTS</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-get-in-touch">
+    <img src="https://img.shields.io/badge/CONTACT-1D4ED8?style=for-the-badge&logoColor=white" alt="Contact" vertical-align="middle">
+  </a>
 </p>
 
-# Salut ! Moi, c'est Riyad Lagzouli 👋
+<p align="center">
+  <img src="https://github.com/riyad-77/riyad-77/blob/main/cover.png?raw=true" alt="Riyad Lagzouli Banner" width="100%">
+</p>
+
+# Hi there! I'm Riyad Lagzouli 👋
 
 <p align="center">
-  <a href="#-À-propos-de-moi">À propos</a> •
-  <a href="#-stack-technique--certifications">Compétences</a> •
-  <a href="#-projets-phares">Projets</a> •
-  <a href="#-engagement-associatif">Engagement</a> •
-  <a href="#-me-contacter">Contact</a> •
-  <a href="#-highlights--événements">Événements</a>
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack--certifications">Skills</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-leadership--extracurriculars">Leadership</a> •
+  <a href="#-get-in-touch">Contact</a> •
+  <a href="#-highlights--events">Events</a>
 </p>
 
 <p align="center">
@@ -25,21 +36,21 @@
   </a>
 </p>
 
-### 📊 Élève Ingénieur en Data Science @ INSEA
+### 📊 Data Science Engineering Student @ INSEA
 
-[cite_start]Passionné par l'**Intelligence Artificielle** et la **modélisation statistique**[cite: 2]. [cite_start]Actuellement en deuxième année à l'Institut National de Statistique et d'Économie Appliquée (INSEA) à Rabat[cite: 37].
-
----
-
-## 🚀 À propos de moi
-- [cite_start]🎓 **Formation :** Cycle d'ingénieur spécialisé en Data Science[cite: 37].
-- [cite_start]🏛️ **Leadership :** Président du **Club INSEA IT**, où je dirige l'IT Academy et gère des partenariats stratégiques (NVIDIA, DataCamp)[cite: 33, 35].
-- [cite_start]💡 **Expertise :** Maîtrise des pipelines de données sous Python et R, avec un focus sur le Machine Learning et le Deep Learning[cite: 3].
-- [cite_start]🎯 **Objectif :** Recherche d'un **stage d'application de 2 mois (juillet-août)** pour concevoir des modèles prédictifs[cite: 3].
+Passionate about **Artificial Intelligence** and **Statistical Modeling**. Currently in my second year at the National Institute of Statistics and Applied Economics (INSEA) in Rabat.
 
 ---
 
-## 🛠️ Stack Technique & Certifications
+## 🚀 About Me
+- 🎓 **Education:** Engineering cycle specialized in Data Science.
+- 🏛️ **Leadership:** President of **INSEA IT Club**, leading the IT Academy and managing strategic partnerships (NVIDIA, DataCamp).
+- 💡 **Expertise:** Proficient in Python and R data pipelines, with a strong focus on Machine Learning and Deep Learning.
+- 🎯 **Goal:** Currently seeking a **2-month internship (July-August)** to design and optimize predictive models.
+
+---
+
+## 🛠️ Tech Stack & Certifications
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,39 +59,46 @@
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-- [cite_start]**Domaines :** Machine Learning, Deep Learning, NLP, Statistiques, Recherche Opérationnelle[cite: 15, 16, 17, 18].
-- **Certifications Clés :**
-  - [cite_start]NVIDIA: Fundamentals of Deep Learning[cite: 23].
-  - [cite_start]IBM: Python for Data Science[cite: 22].
-  - [cite_start]DataCamp: Supervised & Unsupervised Learning, Advanced Git[cite: 24].
+- **Domains:** Machine Learning, Deep Learning, NLP, Statistics, Operations Research.
+- **Key Certifications:**
+  - **NVIDIA:** Fundamentals of Deep Learning.
+  - **IBM:** Python for Data Science.
+  - **DataCamp:** Supervised & Unsupervised Learning, Advanced Git.
 
 ---
 
-## 📁 Projets Phares
+## 📁 Featured Projects
 
 ### [NLP Spam Detection](https://github.com/riyad-77/NLP-Spam-Detection) 📧
-[cite_start]Utilisation de **TF-IDF** et des embeddings **BERT (Transformers)** pour la classification textuelle[cite: 41].
+Implementing **TF-IDF** and **BERT embeddings (Transformers)** for high-performance text classification using Python.
 
-### [Data Viz - Analyse du Risque Boursier](https://github.com/riyad-77/Power-BI) 📈
-[cite_start]Analyse des données Yahoo Finance sous **Power BI** pour l'évaluation des risques[cite: 43].
+### [Data Viz - Stock Market Risk Analysis](https://github.com/riyad-77/Power-BI) 📈
+Interactive **Power BI** dashboard analyzing Yahoo Finance data for risk assessment and financial insights.
 
----
+### [Time Series Analysis](https://github.com/riyad-77/Series-chronologiques) 📉
+Statistical study using **R** on quarterly business failure rates in Paris, focusing on forecasting models.
 
-## 🏛️ Engagement Associatif
-[cite_start]**Président du Club INSEA IT (Depuis Sept. 2025)** [cite: 33]
-- [cite_start]Pilotage de l'**IT Academy** (Workshops LLM, Dev Web)[cite: 34].
-- [cite_start]Coordination de workshops certifiants avec **NVIDIA**[cite: 35].
-
----
-
-## 📫 Me contacter
-- 💼 **LinkedIn :** [Riyad Lagzouli](https://www.linkedin.com/in/riyad-lagzouli-957876349/)
-- [cite_start]📧 **Email :** [riadlag2004@gmail.com](mailto:riadlag2004@gmail.com) [cite: 6]
-- [cite_start]📍 **Localisation :** Rabat, Maroc [cite: 9]
+### [Linear Regression - Titanic](https://github.com/riyad-77/Modele-de-regression-lineaire) 🚢
+Implementation of a linear regression model in **Python** using the classic Titanic dataset to predict survival rates.
 
 ---
 
-## 📸 Highlights & Événements
+## 🏛️ Leadership & Extracurriculars
+**President of INSEA IT Club (Since Sept. 2025)**
+- Managing the **IT Academy** (Workshops on LLMs and Web Development).
+- Negotiated **100 DataCamp licenses** for students.
+- Coordinating certified Deep Learning workshops with **NVIDIA** ambassadors.
+
+---
+
+## 📫 Get in Touch
+- 💼 **LinkedIn:** [Riyad Lagzouli](https://www.linkedin.com/in/riyad-lagzouli-957876349/)
+- 📧 **Email:** [riadlag2004@gmail.com](mailto:riadlag2004@gmail.com)
+- 📍 **Location:** Rabat, Morocco
+
+---
+
+## 📸 Highlights & Events
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
   <img src="img1.jpeg" height="200" style="margin-right: 20px;">
